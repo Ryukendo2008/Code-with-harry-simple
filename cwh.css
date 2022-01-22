@@ -1,0 +1,21 @@
+.b{
+    color: rgb(46, 22, 184);
+}
+.btn-login{
+    background-color: rgb(46, 22, 184);
+    border-radius: 10px;
+}
+.btn-signup{
+    border-radius: 10px;
+    background-color: rgb(46, 22, 184);
+}
+span{
+    color: rgb(46, 22, 184);
+}
+.btn-sw{
+    border-radius: 20px;
+}
+.cardy{
+    border: none;
+    border-radius: 20px;
+}
